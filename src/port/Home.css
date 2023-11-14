@@ -1,0 +1,26 @@
+.bghome{
+    background: linear-gradient(to right,#1F7CE3,#57C1F5,#adeafc,white);
+    width: 100%;
+    height: 92vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.hiimg{
+    height: 50px;
+    width: auto;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.infodet{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding-left: 10%;
+}
+.h1text{
+    font-size: 70px;
+    margin-top: -20px;
+}

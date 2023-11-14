@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.backnav{
+    background-color: black;
+    position: sticky !important;
+    top: 0;
+    left: 0;
+    z-index: 999 !important;
+}
+.logo{
+    height: 17px;
+    width: 17px;
+    background-color: #28A745;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+.navpannel{
+justify-content: space-between;
+}

@@ -1,0 +1,26 @@
+.icon{
+    height: 50px;
+    width: 100%;
+    padding: 20px;
+    font-weight: lighter;
+}
+.fixheight{
+height: 630px;
+position: fixed;
+}
+.textsize{
+    font-size: large;
+}
+.closeicon{
+    cursor: pointer;
+}
+.icon:hover{
+    cursor: pointer;
+    transform: translateY(-3px);
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .4s;
+}
+
+
+
+

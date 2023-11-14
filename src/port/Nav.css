@@ -1,0 +1,14 @@
+#logo{
+    font-family: 'Karla', sans-serif;
+font-family: 'Monoton', sans-serif;
+font-size: 40px;
+letter-spacing: 3px;
+}
+.navbgcolor{
+    background: linear-gradient(to right,#1F7CE3,#57C1F5,#adeafc,white);
+}
+.nav-link{
+color: black;
+margin-right: 10px;
+text-decoration: none;
+}

@@ -1,0 +1,39 @@
+.bgcover{
+    height: 150px !important;
+    width:100%;
+    overflow: hi;
+    background-image: url('../../public/Portfolio/coverbg.png');
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.bgabout{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+.imagesec{
+    justify-content: center;
+    align-items: center;
+}
+.imgbg{
+    height: 120px;
+    width: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    position: relative;
+}
+.photo{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+.scrolldiv{
+    position: absolute;
+    right: 0;
+}
